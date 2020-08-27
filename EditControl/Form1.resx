@@ -57,4 +57,57 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>00:	Some test text for testing
+01:		
+02:	
+03:	In the code in Example 1, you may wonder about that \fs25 command. Normally
+04:	it would have a { right before it and would be inside a paragraph, but there
+05:	it is off on its own! The rule with character formatting commands is that they
+06:	apply until the end of the currently open {...} group, regardless of whether
+07:	it was a group that was started right before the command or whether it’s been
+08:	open for some time. The \fs25 command is no exception. Although the \fs25 may
+09:	seem solitary, there really is an open {...} group: the group that starts with
+10:	the { that’s the first character in this document, and continues until the }
+11:	
+12:	
+13:	Although I generally advise using character-formatting commands only as a 
+14:	{\command...} construct, this suggestion is to make the resulting RTF easier to
+15:	debug. It makes no difference to the word processor interpreting the RTF. There
+16:	are three kinds of cases where it’s fine to diverge from this advice:
+17:	
+18:	
+19:	
+20:	
+21:	In the code in Example 1, you may wonder about that \fs25 command. Normally
+22:	it would have a { right before it and would be inside a paragraph, but there
+23:	it is off on its own! The rule with character formatting commands is that they
+24:	apply until the end of the currently open {...} group, regardless of whether
+25:	it was a group that was started right before the command or whether it’s been
+26:	open for some time. The \fs25 command is no exception. Although the \fs25 may
+27:	seem solitary, there really is an open {...} group: the group that starts with
+28:	 the { that’s the first character in this document, and continues until the }
+29:	
+30:	
+31:	Although I generally advise using character-formatting commands only as a 
+32:	{\command...} construct, this suggestion is to make the resulting RTF easier to
+33:	debug. It makes no difference to the word processor interpreting the RTF. There
+34:	are three kinds of cases where it’s fine to diverge from this advice:
+35:	
+36:	
+37:	
+38:	
+39:	In the code in Example 1, you may wonder about that \fs25 command. Normally
+40:	it would have a { right before it and would be inside a paragraph, but there
+41:	it is off on its own! The rule with character formatting commands is that they
+42:	apply until the end of the currently open {...} group, regardless of whether
+43:	it was a group that was started right before the command or whether it’s been
+44:	open for some time. The \fs25 command is no exception. Although the \fs25 may
+45:	seem solitary, there really is an open {...} group: the group that starts with
+46:	 the { that’s the first character in this document, and continues until the }
+47:	
+48:	
+49:	Although I generally advise using character-formatting commands only as a 
+50:	{\command...} construct, this suggestion is to make the resulting RTF easier to</value>
+  </data>
 </root>
